@@ -1,5 +1,10 @@
 # 反诈蜜罐 AI Agent（文本版 MVP）问过法务，个人开发属于扰乱国家秩序，仅供娱乐谢谢~~
 
+个人亲自测评
+<img width="1407" height="1258" alt="image" src="https://github.com/user-attachments/assets/8bea6802-fe91-45b4-bed5-e00e4693f326" />
+
+
+
 仿照 Apate.ai 思路的最小原型：AI 扮演“易受骗的普通人”，拖住诈骗者，同时自动抽取收款账户、钱包地址、电话、链接等情报，汇总到看板。
 
 ```
